@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zhaojingzj.github.io/"/>
-  <updated>2019-01-20T12:54:21.628Z</updated>
+  <updated>2019-11-13T14:11:59.036Z</updated>
   <id>https://zhaojingzj.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>python-error</title>
+    <link href="https://zhaojingzj.github.io/2019/11/13/python-error/"/>
+    <id>https://zhaojingzj.github.io/2019/11/13/python-error/</id>
+    <published>2019-11-13T14:08:08.000Z</published>
+    <updated>2019-11-13T14:11:59.036Z</updated>
+    
+    <content type="html"><![CDATA[<p>1.ImportError: No module named cv2<br>    修改conda install opencv-python 或pip install opencv-python</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;1.ImportError: No module named cv2&lt;br&gt;    修改conda install opencv-python 或pip install opencv-python&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>test</title>
@@ -76,6 +98,28 @@
     <title>study</title>
     <link href="https://zhaojingzj.github.io/2018/12/09/study/"/>
     <id>https://zhaojingzj.github.io/2018/12/09/study/</id>
+    <published>2018-12-09T03:34:26.000Z</published>
+    <updated>2018-12-10T00:49:14.000Z</updated>
+    
+    <content type="html"><![CDATA[<p> a happy day</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt; a happy day&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>study</title>
+    <link href="https://zhaojingzj.github.io/2018/12/09/study%20-%20%E5%89%AF%E6%9C%AC/"/>
+    <id>https://zhaojingzj.github.io/2018/12/09/study - 副本/</id>
     <published>2018-12-09T03:34:26.000Z</published>
     <updated>2018-12-10T00:49:14.000Z</updated>
     
